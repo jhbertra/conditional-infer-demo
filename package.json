@@ -1,0 +1,11 @@
+{
+  "name": "inferred-type-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jamie Bertram <jamie@pagecloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fp-ts": "^2.10.5",
+    "typescript": "^4.3.4"
+  }
+}
